@@ -1,0 +1,2 @@
+ag_attacker -> ag_media_player -> ag_brightness_sensor -> ag_light -> ag_light_controller -> ag_occupancy_sensor -> ag_air_conditioner
+Maximum CVSS Base Score: 62.90
